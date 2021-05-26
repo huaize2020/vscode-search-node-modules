@@ -3,7 +3,7 @@
     "displayName": "Search node_modules with monorepo",
     "description": "Quickly search the node_modules folder.",
     "license": "MIT",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "publisher": "huaize2020",
     "engines": {
         "vscode": "^1.5.0"
