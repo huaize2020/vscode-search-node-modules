@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# 1.4.0
+
+* Added: Support for monorepo.
+
 # 1.3.0
 
 * Added: Initial support for multi-root workspaces.

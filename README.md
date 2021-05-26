@@ -1,13 +1,6 @@
-# Search node_modules
+# Search node_modules with monorepo
 
-[![](https://vsmarketplacebadge.apphb.com/version-short/jasonnutter.search-node-modules.svg
-)
-![](https://vsmarketplacebadge.apphb.com/installs-short/jasonnutter.search-node-modules.svg
-)
-![](https://vsmarketplacebadge.apphb.com/rating-short/jasonnutter.search-node-modules.svg
-)](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
-
-![](https://raw.githubusercontent.com/jasonnutter/vscode-search-node-modules/master/img/demo.gif)
+## A fork from jasonnutter's Search node_modules which add monorepo
 
 Simple plugin for VS Code that allows you to quickly navigate the file inside your project's `node_modules` directory.
 
